@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-color: grey;
+
+}
+
+button{
+  font-weight: bold;
+  padding: 1px;
+  
+
+}
+
+button:hover{
+  background-color: whitesmoke;
+  color: rgb(186, 171, 171);
+}
+
+form{
+  font-weight: bold;
+
+}
+
